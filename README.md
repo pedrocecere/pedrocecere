@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocecere&show_icons=true&theme=dracula)
 
-# [Portifólio](https://github.com/pedrocecere/Portifolio_Dados.git)
+## [Portifólio](https://github.com/pedrocecere/Portifolio_Dados.git)
 
 - Acesse aqui meu portfólio de projetos, onde você encontrará estudos estatísticos, soluções de problemas de negócio utilizando machine learning, dashboards em Power BI e relatórios corporativos em SQL.
 
@@ -14,7 +14,7 @@
 
 ![Banner para Linkedin Tecnologia Abstrato Azul e Branco](https://github.com/user-attachments/assets/3cc78aa7-b684-40fb-9033-ac61ec93dabc)
 
-### Entre em contato:
+## Entre em contato:
 
 - [LinkedIn](www.linkedin.com/in/pedro-cecere2)
 - [E-mail](cecerepedro@gmail.com)
