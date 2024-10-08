@@ -4,8 +4,6 @@
 - 😍 Tenho uma grande paixão por tecnologia, especialmente nas áreas de Ciência de Dados e Estatística, onde constantemente estudo e desenvolvo projetos focados em resolver problemas de negócios e otimizar resultados.
 - 💡 Minhas principais hard skills incluem: Python (pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn), SQL (PostgreSQL, SQL Server), Power BI, Excel, Git e GitHub (versionamento de código), Probabilidade e Estatística, e Docker.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocecere&show_icons=true&theme=dracula)
-
 ## [Portifólio](https://github.com/pedrocecere/Portifolio_Dados.git)
 
 - Acesse aqui meu portfólio de projetos, onde você encontrará estudos estatísticos, soluções de problemas de negócio utilizando machine learning, dashboards em Power BI e relatórios corporativos em SQL.
